@@ -1,0 +1,13 @@
+PROGRAMA 1 
+    -Pedir por teclado un nombre de alumno
+    -Pedir por teclado 5 notas
+    -Mostrar la media
+    -Mostar si el alumno aprueba el año(para ser apto aprobar todo)
+
+    LA alumna ainize tiene media de X y es apta. 
+
+PROGRAMA 2
+    -Pedir por teclado el tipo cliente (VIP, Normal, Socio)
+    -Pedir por teclado el tipo de compra
+    -Mostrar el total a pagar por cliente:
+        - sabiendo que normal no descuento, socio 5% y VIP 20%
